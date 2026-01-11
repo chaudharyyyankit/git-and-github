@@ -1,0 +1,5 @@
+Authentication Feature Notes
+
+	- Login with email and password
+	- Password must be hashed
+	- JWT will be used
